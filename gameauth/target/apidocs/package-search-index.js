@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html","k":"18"},{"l":"com.gamingroom.gameauth"},{"l":"com.gamingroom.gameauth.auth"},{"l":"com.gamingroom.gameauth.controller"},{"l":"com.gamingroom.gameauth.dao"},{"l":"com.gamingroom.gameauth.healthcheck"},{"l":"com.gamingroom.gameauth.representations"}];updateSearchResults();
